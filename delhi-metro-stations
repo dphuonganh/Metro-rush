@@ -1,0 +1,194 @@
+#Red Line
+1:Dilshad Garden
+2:Jhil Mil
+3:Mansarovar Park
+4:Shahdara
+5:Welcome
+6:Seelampur
+7:Shastri Park
+8:Kashmere Gate:Conn: Violet Line
+9:Tis Hazari
+10:Pul Bangash
+11:Pratap Nagar
+12:Shastri Nagar
+13:Inder Lok:Conn: Green Line
+14:Kanhaiya Nagar
+15:Keshav Puram
+16:Netaji Subhash Place:Conn: Pink Line
+17:Kohat Enclave
+18:Pitam Pura
+19:Rohini East
+20:Rohini West
+21:Rithala
+#Yellow Line
+1:Samaypur Badli
+2:Rohini Sector 18,19
+3:Haiderpur Badli Mor
+4:Jahangirpuri
+5:Adarsh Nagar
+6:Azadpur:Conn: Pink Line
+7:Model Town
+8:G.T.B. Nagar
+9:Vishwavidyalaya
+10:Vidhan Sabha
+11:Civil Lines
+12:Kashmere Gate:Conn: Violet Line
+13:Chandni Chowk
+14:Chawri Bazar
+15:New Delhi:Conn: Airport Express
+16:Rajiv Chowk:Conn: Blue Line
+17:Patel Chowk
+18:Central Secretariat:Conn: Violet Line
+19:Udyog Bhawan
+20:Lok Kalyan Marg
+21:Jorbagh
+22:INA:Conn: Pink Line
+23:AIIMS
+24:Green Park
+25:Hauz Khas:Conn: Magenta Line
+26:Malviya Nagar
+27:Saket
+28:Qutab Minar
+29:Chhattarpur
+30:Sultanpur
+31:Ghitorni
+32:Arjan Garh
+33:Guru Dronacharya
+34:Sikandarpur:Conn: Rapid
+35:MG Road
+36:IFFCO Chowk
+37:Huda City Centre
+#Blue Line
+1:Dwarka Sec-21
+2:Dwarka Sec-08
+3:Dwarka Sec-09
+4:Dwarka Sec-10
+5:Dwarka Sec-11
+6:Dwarka Sec-12
+7:Dwarka Sec-13
+8:Dwarka Sec-14
+9:Dwarka
+10:Dwarka Mor
+11:Nawada
+12:Uttam Nagar West
+13:Uttam Nagar East
+14:Janak Puri West:Conn: Magenta Line
+15:Janak Puri East
+16:Tilak Nagar
+17:Subhash Nagar
+18:Tagore Garden
+19:Rajouri Garden:Conn: Pink Line
+20:Ramesh Nagar
+21:Moti Nagar
+22:Kirti Nagar:Conn: Green Line
+23:Shadipur
+24:Patel Nagar
+25:Rajendra Place
+26:Karol Bagh
+27:Jhandewalan
+28:R K Ashram Marg
+29:Rajiv Chowk:Conn: Yellow Line
+30:Barakhamba
+31:Mandi House:Conn: Violet Line
+32:Pragati Maidan
+33:Indraprastha
+34:Yamuna Bank
+35:Akshardham
+36:Mayur Vihar Phase-1
+37:Mayur Vihar Extention
+38:New Ashok Nagar
+39:Noida Sector-15
+40:Noida Sector-16
+41:Noida Sector-18
+42:Botanical Garden:Conn: Magenta Line
+43:Golf Course
+44:Noida City Center
+#Airport Express
+1:New Delhi-Airport Express:Conn: Yellow Line
+2:Shivaji Stadium
+3:Dhaula Kuan:Conn: Pink Line
+4:Delhi Aero City
+5:IGI Airport
+6:Dwarka Sec-21-Airport
+#Violet Line
+1:Kashmere Gate:Conn: Yellow Line
+2:Lal Quila
+3:Jama Masjid
+4:Delhi Gate
+5:ITO
+6:Mandi House:Conn: Blue Line
+7:Central Secretariat:Conn: Yellow Line
+8:Janpath
+9:Khan Market
+10:Jawaharlal Nehru Stadium
+11:Jangpura
+12:Lajpat Nagar:Conn: Pink Line
+13:Moolchand
+14:Kailash Colony
+15:Nehru Place
+16:Kalkaji Mandir:Conn: Magenta Line
+17:Govind Puri
+18:Okhla
+19:Jasola
+20:Sarita Vihar
+21:Mohan Estate
+22:Tughlakabad
+23:Badarpur
+24:Sarai
+25:N.H.P.C. Chowk
+26:Mewala Maharajpur
+27:Sector 28 Faridabad
+28:Badkal Mor
+29:Old Faridabad
+30:Neelam Chowk Ajronda
+31:Bata Chowk
+32:Escorts Mujesar
+#Magenta Line
+1:Janakpuri West:Conn: Blue Line
+2:Dabri Mor
+3:Dashrath Puri
+4:Palam
+5:Sadar Bazaar Cantonment
+6:Terminal 1 IGI Airport
+7:Shankar Vihar
+8:Vasant Vihar
+9:Munirka
+10:R.K Puram
+11:IIT Delhi
+12:Hauz Khas:Conn: Yellow Line
+13:Panchsheel Park
+14:Chirag Delhi
+15:Greater Kailash
+16:Nehru Enclave
+17:Kalkaji Mandir:Conn: Violet Line
+18:Okhla N.S.I.C
+19:Sukhdev Vihar
+20:Jamia Millia Islamia
+21:Okhla Vihar
+22:Jasola Vihar Shaheen Bagh
+23:Kalindi Kunj
+24:Okhla Bird Sanctuary
+25:Botanical Garden:Conn: Blue Line
+#Pink Line
+1:Majlis Park
+2:Azadpur:Conn: Yellow Line
+3:Shalimar Bagh
+4:Netaji Subhash Place:Conn: Red Line
+5:Shakurpur
+6:Punjabi Bagh West
+7:ESI Hospital
+8:Rajouri Garden:Conn: Blue Line
+9:Maya Puri
+10:Naraina Vihar
+11:Delhi Cantt
+12:Durgabai Deshmukh South Campus:Conn: Airport Express
+13:Sir Vishweshwaraiah Moti Bagh
+14:Bhikaji Cama Place
+15:Sarojini Nagar
+16:INA:Conn: Yellow Line
+17:South Extension
+18:Lajpat Nagar:Conn: Violet Line
+
+START=Red Line:15
+END=Blue Line:36
+TRAINS=30
